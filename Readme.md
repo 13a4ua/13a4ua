@@ -4,7 +4,7 @@
 
 [UN Human rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-![13ArtileMain](img/13article.png)
+![13ArtileMain](img/13article.jpg)
 
 
 Згідно з 13 статтею Загальної декларації прав людини ООН, кожен має право покинути будь-яку країну, **включаючи свою власну,** та повернутися до своєї країни.
